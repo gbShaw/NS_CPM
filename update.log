@@ -1,0 +1,16 @@
+1.0.31_beta 20211223
+1.fix bug: missing TBX_parfor_progress
+
+1.0.3_beta 20211214
+1.add online update
+2.add crossvalind as subfunction to avoid conflicts
+
+
+1.0.2_beta 20211130
+1.Add elastic-net methods for batch mode
+2.fix bug: missing TBX_parfor_progress
+3.fix bug: missing crossvalind
+
+
+1.0.1_beta
+add support for matlab2010a
